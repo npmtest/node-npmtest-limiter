@@ -1,4 +1,7 @@
-# test coverage for  [limiter (v1.1.0)](https://github.com/jhurliman/node-rate-limiter#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-limiter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-limiter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-limiter.svg)](https://travis-ci.org/npmtest/node-npmtest-limiter)
+# npmtest-limiter
+
+#### basic test coverage for  [limiter (v1.1.0)](https://github.com/jhurliman/node-rate-limiter#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-limiter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-limiter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-limiter.svg)](https://travis-ci.org/npmtest/node-npmtest-limiter)
+
 #### A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 
 [![NPM](https://nodei.co/npm/limiter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/limiter)
